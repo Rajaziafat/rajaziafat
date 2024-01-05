@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja Ziafat CEO at Code Nativex</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaziafat&label=Profile%20views&color=0e75b6&style=flat" alt="rajaziafat" /> </p>
 
